@@ -146,7 +146,7 @@ Predicción (índice): 653
 Este número representa la categoría predicha por el modelo y comprueba el funcionamiento adecuado de la herramienta.
 
 
-# Opcional: Etiequetas reales: 
+## Opcional: Etiequetas reales: 
 
 Abre en terminal el siguiente paquete:
 
