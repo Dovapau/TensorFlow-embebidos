@@ -1,4 +1,4 @@
-#Tutorial Guíado: TensorFlow Lite con Python
+# Tutorial Guíado: TensorFlow Lite con Python
 
 ## 🎯 Objetivo
 Instalar TensorFlow Lite y ejecutar un modelo de ejemplo de clasificación de imágenes desde Python. Este tutorial está pensado para principiantes y dispositivos con recursos limitados (como Raspberry Pi).
