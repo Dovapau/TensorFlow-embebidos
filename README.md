@@ -14,7 +14,7 @@ Instalar TensorFlow Lite y ejecutar un modelo de ejemplo de clasificación de im
 
 ---
 
-## ✅ Paso 1: Crear un entorno virtual (opcional pero recomendado)
+## ✅ Paso 1: Crear un entorno virtual 
 
 ### En Windows / Linux / Raspberry Pi:
 
