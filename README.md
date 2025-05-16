@@ -1,4 +1,4 @@
-# 🧠 Tutorial Guíado: TensorFlow Lite con Python
+#Tutorial Guíado: TensorFlow Lite con Python
 
 ## 🎯 Objetivo
 Instalar TensorFlow Lite y ejecutar un modelo de ejemplo de clasificación de imágenes desde Python. Este tutorial está pensado para principiantes y dispositivos con recursos limitados (como Raspberry Pi).
@@ -158,18 +158,18 @@ Luego abre el archivo *imagenet_labels.txt* y busca la línea con el índice.
 
 ## 📝 Consejos
 
-- ✅ Asegúrate de tener activado el entorno virtual al instalar o ejecutar los scripts.
-- 📂 Todos los archivos `.py`, `.tflite` e imagen deben estar en la **misma carpeta**.
-- 🛠️ Si algo falla, repite el paso anterior o revisa si hubo errores en la consola.
+- Asegúrate de tener activado el entorno virtual al instalar o ejecutar los scripts.
+- Todos los archivos `.py`, `.tflite` e imagen deben estar en la **misma carpeta**.
+- Si algo falla, repite el paso anterior o revisa si hubo errores en la consola.
 
 ---
 
-## 📚 ¿Qué aprendiste?
+## 🧠 ¿Qué aprendiste?
 
-- 📦 Instalar TensorFlow Lite en un entorno liviano  
-- 🔍 Descargar y usar un modelo preentrenado  
-- 🖼️ Ejecutar inferencia en una imagen  
-- 🚫 Todo sin necesidad de GPU o conexión a la nube
+- Instalar TensorFlow Lite en un entorno liviano  
+- Descargar y usar un modelo preentrenado  
+- Ejecutar inferencia en una imagen  
+- Todo sin necesidad de GPU o conexión a la nube
 
 
 
