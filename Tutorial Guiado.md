@@ -19,7 +19,7 @@ Instalar TensorFlow Lite y ejecutar un modelo de ejemplo de clasificación de im
 ### En Windows / Linux / Raspberry Pi:
 
 ```bash
-python -m venv tflite_env
+python3 -m venv tflite_env
 ```
 
 Activamos el entorno:
@@ -42,6 +42,11 @@ Instalamos el paquete correspondiente:
 
 ```bash
 pip install tflite-runtime
+```
+Si tienes python 3.12:
+
+```bash
+pip install tensorflow
 ```
 
 ## ✅ Paso 3: Descargamos el modelo preentrenado
